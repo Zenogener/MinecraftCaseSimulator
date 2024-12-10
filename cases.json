@@ -5,14 +5,14 @@
     "animationFrame": 0,
     "items": [
       {
-        "name": "coal",
+        "name": "coil",
         "imageAnimation": "Resources",
         "imageFrame": 0,
         "weight": 980,
         "type": 0,
         "minMaxPrice": [
-          100,
-          1000
+          2,
+          6
         ]
       },
       {

@@ -1031,4 +1031,187 @@
       }
     ]
   },
+  {
+    "name": "blocks-case",
+    "price": 150,
+    "animationFrame": 6,
+    "items": [
+      {
+        "name": "workbench",
+        "imageAnimation": "Blocks",
+        "imageFrame": 0,
+        "weight": 1300,
+        "type": 0,
+        "minMaxPrice": [
+          40,
+          55
+        ]
+      },
+      {
+        "name": "chest",
+        "imageAnimation": "Blocks",
+        "imageFrame": 1,
+        "weight": 1190,
+        "type": 0,
+        "minMaxPrice": [
+          55,
+          60
+        ]
+      },
+      {
+        "name": "furnace",
+        "imageAnimation": "Blocks",
+        "imageFrame": 2,
+        "weight": 1140,
+        "type": 0,
+        "minMaxPrice": [
+          55,
+          65
+        ]
+      },
+      {
+        "name": "iron-block",
+        "imageAnimation": "Blocks",
+        "imageFrame": 3,
+        "weight": 860,
+        "type": 1,
+        "minMaxPrice": [
+          70,
+          95
+        ]
+      },
+      {
+        "name": "bookshelf",
+        "imageAnimation": "Blocks",
+        "imageFrame": 4,
+        "weight": 830,
+        "type": 1,
+        "minMaxPrice": [
+          80,
+          100
+        ]
+      },
+      {
+        "name": "pumpkin",
+        "imageAnimation": "Blocks",
+        "imageFrame": 5,
+        "weight": 750,
+        "type": 1,
+        "minMaxPrice": [
+          90,
+          110
+        ]
+      },
+      {
+        "name": "redstone-block",
+        "imageAnimation": "Blocks",
+        "imageFrame": 6,
+        "weight": 740,
+        "type": 1,
+        "minMaxPrice": [
+          100,
+          120
+        ]
+      },
+      {
+        "name": "golden-block",
+        "imageAnimation": "Blocks",
+        "imageFrame": 7,
+        "weight": 260,
+        "type": 2,
+        "minMaxPrice": [
+          300,
+          550
+        ]
+      },
+      {
+        "name": "obsidian-block",
+        "imageAnimation": "Blocks",
+        "imageFrame": 8,
+        "weight": 185,
+        "type": 2,
+        "minMaxPrice": [
+          700,
+          800
+        ]
+      },
+      {
+        "name": "tnt",
+        "imageAnimation": "Blocks",
+        "imageFrame": 9,
+        "weight": 180,
+        "type": 2,
+        "minMaxPrice": [
+          820,
+          900
+        ]
+      },
+      {
+        "name": "sponge",
+        "imageAnimation": "Blocks",
+        "imageFrame": 10,
+        "weight": 170,
+        "type": 2,
+        "minMaxPrice": [
+          800,
+          950
+        ]
+      },
+      {
+        "name": "diamond-block",
+        "imageAnimation": "Blocks",
+        "imageFrame": 11,
+        "weight": 60,
+        "type": 3,
+        "minMaxPrice": [
+          2000,
+          2300
+        ]
+      },
+      {
+        "name": "slime-block",
+        "imageAnimation": "Blocks",
+        "imageFrame": 12,
+        "weight": 54,
+        "type": 3,
+        "minMaxPrice": [
+          2300,
+          2800
+        ]
+      },
+      {
+        "name": "ender-chest",
+        "imageAnimation": "Blocks",
+        "imageFrame": 13,
+        "weight": 50,
+        "type": 3,
+        "minMaxPrice": [
+          2600,
+          3200
+        ]
+      },
+      {
+        "name": "emerald-block",
+        "imageAnimation": "Blocks",
+        "imageFrame": 14,
+        "weight": 17,
+        "type": 4,
+        "minMaxPrice": [
+          8200,
+          8800
+        ]
+      },
+      {
+        "name": "beacon",
+        "imageAnimation": "Blocks",
+        "imageFrame": 15,
+        "weight": 16,
+        "type": 4,
+        "minMaxPrice": [
+          8500,
+          9300
+        ]
+      }
+    ]
+  }
 ]

@@ -1031,24 +1031,4 @@
       }
     ]
   },
-  {
-    "name": "Money",
-    "price": 0,
-    "animationFrame": 6,
-    "items": [
-      {
-        "name": "God",
-        "imageAnimation": "Blocks",
-        "imageFrame": 0,
-        "weight": 1300,
-        "type": 0,
-        "minMaxPrice": [
-          1000,
-          10000
-        ]
-      }
-        ]
-      }
-    ]
-  }
 ]
